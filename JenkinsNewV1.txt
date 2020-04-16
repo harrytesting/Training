@@ -1,0 +1,6 @@
+
+@echo navigate to jenkins war file and execute it 
+cd \
+cd C:\Tools\Jenkins
+java -jar jenkins.war --httpPort=9090
+pause
